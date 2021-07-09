@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# break statement
+
+# while copying files if the free disk space get below a certian value then stop the copying
+
+for value in $1/*
+do
+	used=$( df $1 | tail -1 | awk '{ print $5 }' | sed 's/%//' )
+	if [ $used -gt 90 
+	th]
+done
