@@ -1,0 +1,23 @@
+------------------------------------------------
+The CPU Information
+------------------------------------------------
+    Processor : Intel(R) Core(TM)  i5-3230M CPU @ 2.60GHz
+
+    Average percent time the CPU spent on running
+
+    User Time(non kernal)    System Time(kernal)    IDLE    Waiting IO    Stolen from vm
+              10%                   4%               84%        1%             10%      
+------------------------------------------------
+------------------------------------------------
+The Memory Performance
+------------------------------------------------
+    Total Memory : 7.7Gi
+
+    Used Memory : 2.7Gi
+
+    Free Memory : 1.9Gi
+
+    Shared Memory : 571Mi
+
+    Buffre/Cache Memory : 3.1Gi
+------------------------------------------------
